@@ -12,3 +12,12 @@ This repository contains Java basic programs that cover core concepts required f
 
 ## Purpose
 To build strong Java fundamentals and document my learning journey.
+
+
+## Folder Structure
+Each folder represents a Java concept with simple examples.
+
+## How to Run?
+1. Clone the repository
+2. Compile using `javac`
+3. Run using `java ClassName`
